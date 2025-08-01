@@ -13,11 +13,13 @@
 - HTML5
 - CSS3
 
-🎯 Purpose
+## 🎯 Purpose
+
 This project was created for educational and portfolio purposes. It simulates a simple landing page for a small restaurant or burger shop, using only HTML and CSS.
 
 
-📬 Contact
+## 📬 Contact
+
 Feel free to connect with me on LinkedIn or check out more of my work on GitHub.
 
 Made with 🍟 and ❤️ by Yuji
