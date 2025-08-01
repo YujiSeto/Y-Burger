@@ -21,3 +21,14 @@ body {
   max-width: 1200px;
   padding: 0 20px;
 }
+
+.logo a {
+  font-family: "Calistoga";
+  font-size: 36px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.logo a span {
+  color: #fe6a0f;
+}
