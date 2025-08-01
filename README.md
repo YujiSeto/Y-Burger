@@ -8,10 +8,6 @@
 - Semantic HTML and pure CSS (no frameworks)
 - Easy to customize for other food businesses
 
-## 📷 Preview
-
-![y-burguer-preview](./preview.png) <!-- You can replace this with your screenshot later -->
-
 ## 🛠️ Built With
 
 - HTML5
