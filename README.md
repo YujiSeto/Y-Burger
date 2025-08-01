@@ -1,6 +1,6 @@
-# 🍔 Y Burguer - Simple Restaurant Menu Website
+# 🍔 Y Burger - Simple Restaurant Menu Website
 
-**Y Burguer** is a minimalist and responsive website built with HTML and CSS. It showcases a fictional burger restaurant with a clean design and a visually appealing menu layout.
+**Y Burger** is a minimalist and responsive website built with HTML and CSS. It showcases a fictional burger restaurant with a clean design and a visually appealing menu layout.
 
 ## 🔍 Features
 
